@@ -1,0 +1,13 @@
+.viewer-layout-container{
+    border-radius: 50px;
+    padding-top:5%;
+
+    opacity: 0.8;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 72%;
+    margin-top: 50;
+    margin-bottom: 50;
+   
+}
