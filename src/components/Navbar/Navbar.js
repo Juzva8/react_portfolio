@@ -17,13 +17,13 @@ const NavBar = (props) => {
               <NavLink href="/">Home</NavLink>
             </NavItem>
             <NavItem>
+              <NavLink href="/portfolio">Portfolio</NavLink>
+            </NavItem>
+            <NavItem>
               <NavLink href="/Resume">Resume</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="https://github.com/reactstrap/reactstrap">GitHub</NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink href="https://github.com/reactstrap/reactstrap">GitHub</NavLink>
+              <NavLink href="/contact">Contact</NavLink>
             </NavItem>
           </Nav>
         </Collapse>

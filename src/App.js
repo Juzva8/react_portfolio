@@ -4,7 +4,9 @@ import NavBar from '../src/components/Navbar/Navbar';
 import Footer from './components/Footer/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Pages/Home/Home';
+
 import Resume from './Pages/Resume/Resume';
+import Contact from './Pages/contact/contact'
 
 
 
@@ -15,9 +17,8 @@ function App() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/Resume' component={Resume} />      
-        {/* <Route path='/our-story' component={OurStory} />
-        <Route path='/register' component={Register} />
-        <Route path='/login' component={SignIn} /> */}
+        <Route path='/Contact' component={Contact} />
+        {/* <Route path='/login' component={SignIn} /> */} */}
       </Switch>
 
       <Footer />
