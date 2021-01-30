@@ -6,10 +6,10 @@ const Home = () => (
 
     <div> 
 
-
-      <img src={Logo} width="500"  alt="Logo" className='logo' />
-
-   
+<a>
+      <img src={Logo} alt="Logo" className='logo' />
+</a>
+  
         <h1>Lawrence </h1>
      <h3>I am a former CEO and founder of a transport company with almost one hundred employees. 
        I was born in central Europe where studied Psychology for two years and later I decided to get a Bachelor's degree in Business Administration. 
