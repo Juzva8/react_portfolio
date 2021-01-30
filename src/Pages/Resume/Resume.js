@@ -10,7 +10,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = require("pdfjs-dist/build/pdf.worker.entry
 function Resume() {
   return (
     <div container="App">
-     <Worker workerUrl="../components/PDF/Resume.pdf">
+     <Worker workerUrl="../../components/PDF/Resume.p">
     <div id="pdfviewer">
         <Viewer fileUrl={filePDF}xs /> 
     </div>
