@@ -13,7 +13,7 @@
 ## Installation
 * No installation needed. Use your browser
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/Juzva8/validenough/main/src/components/Images/Screen-Shot.png)
+![screenshot](./Screen-Shot.png)
 ## Usage
 * N/A
 ## Contributing
