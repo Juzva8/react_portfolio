@@ -21,7 +21,7 @@
 ## Tests
 * YES
 ## Link to deployed version of the app
-* https://github.com/Juzva8/validenough 
+* https://github.com/Juzva8/react_portfolio
 * https://main.d1fmd1pvg7ge9g.amplifyapp.com/ 
 ## License
 * A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
