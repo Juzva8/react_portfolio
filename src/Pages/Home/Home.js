@@ -5,8 +5,10 @@ import "./Home.css";
 const Home = () => (
 
     <div> 
-      
-    <a><img src={Logo} width="500"  alt="Logo" className='logo' /></a>
+
+
+      <img src={Logo} width="500"  alt="Logo" className='logo' />
+
    
         <h1>Lawrence </h1>
      <h3>I am a former CEO and founder of a transport company with almost one hundred employees. 
