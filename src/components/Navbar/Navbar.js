@@ -20,9 +20,9 @@ const NavBar = (props) => {
               <NavLink href="/portfolio">Portfolio</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/Resume">Resume</NavLink>
+              {/* <NavLink href="/Resume">Resume</NavLink>
             </NavItem>
-            <NavItem>
+            <NavItem> */}
               <NavLink href="/contact">Contact</NavLink>
             </NavItem>
           </Nav>
