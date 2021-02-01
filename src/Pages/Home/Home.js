@@ -1,16 +1,39 @@
 import React from 'react';
 import Logo from '../../components/Images/Landing-logo.png';
+import Reveal from 'react-reveal/Reveal'
+import styled from 'styled-components';
+import GridComponent from '../../components/Portfolio/grid'; 
 import "./Home.css";
+
+
+const TypeStyle = styled.p`
+  font-size:45px;
+  top: 5%;
+  left: 43%;
+  bottom: 20%;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 3.9em;
+  position: relative; 
+  animation: type 1s steps(10, end); 
+  @keyframes type{ 
+    from { width: 0 } 
+  } 
+`
 
 const Home = () => (
 
     <div> 
+  <Reveal effect="fadeIn" duration={3000}>
+       <GridComponent>
 
-<a>
       <img src={Logo} alt="Logo" className='logo' />
-</a>
-  
-        <h1>Lawrence </h1>
+
+        </GridComponent>
+  </Reveal>
+  <TypeStyle > 
+        <h1>Lawrence</h1>
+        </TypeStyle> 
      <h3>I am a former CEO and founder of a transport company with almost one hundred employees. 
        I was born in central Europe where studied Psychology for two years and later I decided to get a Bachelor's degree in Business Administration. 
        I am fluent in three languages. I can speak in one of the oldest Proto-Indo-European language as well as Russian. I can write and read in Cyrillic script and I am fluent in English. 
@@ -21,7 +44,6 @@ const Home = () => (
     </div>
 
   );
-
 
 
 export default Home;
