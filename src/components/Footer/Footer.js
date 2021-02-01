@@ -9,7 +9,7 @@ const Footer = () => (
                   <a href="https://www.linkedin.com/in/laurynas-j-88427319a"target="_blank" rel="noopener noreferrer">
                     <MDBIcon fab icon="linkedin" />
                   </a> {}
-                  <a href="mailto:lawrence@validenough.com" target="_blank" rel="noopener noreferrer">
+                  <a href="mailto:laurynas.juzva@gmail.com" target="_blank" rel="noopener noreferrer">
                     <MDBIcon fab icon="google-plus-g" />
                   </a>
                {}
