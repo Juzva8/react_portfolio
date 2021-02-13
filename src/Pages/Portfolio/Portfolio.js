@@ -7,7 +7,7 @@ import BrowsJungle from '../../components/Images/Projects/BrowsJungle.png'
 import Code_Mania from '../../components/Images/Projects/Code Mania.png'
 import Quiz_img from '../../components/Images/Projects/Quiz_img.png'
 import SCP from '../../components/Images/Projects/SCP.png'
-import future from '../../components/Images/Projects/future.jpg'
+import budget from '../../components/Images/Projects/budget-app.png'
 
 
 const Portfolio = () => ( 
@@ -66,7 +66,7 @@ const Portfolio = () => (
                 <Reveal effect="fadeInLeft" duration={3000}>
                                     <GridComponent>
                     <a href="https://github.com/Juzva8" target="_blank" rel="noopener noreferrer">
-                    <img className="rounded float-left img-fluid" src={future} width="350" height="350" alt="Next Project" />               
+                    <img className="rounded float-left img-fluid" src={budget} width="350" height="350" alt="Next Project" />               
                     </a>
                     </GridComponent>
                                 </Reveal>
