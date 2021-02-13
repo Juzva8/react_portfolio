@@ -65,7 +65,7 @@ const Portfolio = () => (
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeInLeft" duration={3000}>
                                     <GridComponent>
-                    <a href="https://github.com/Juzva8" target="_blank" rel="noopener noreferrer">
+                    <a href="https://dry-lowlands-94703.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                     <img className="rounded float-left img-fluid" src={budget} width="350" height="350" alt="Next Project" />               
                     </a>
                     </GridComponent>
