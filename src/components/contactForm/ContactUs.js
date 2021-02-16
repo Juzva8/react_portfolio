@@ -2,6 +2,7 @@ import React from 'react';
 import emailjs from "emailjs-com";
 import '../contactForm/contact.css';
 
+
 export default function ContactUs() {
 
     function sendEmail(e) {
@@ -37,10 +38,13 @@ export default function ContactUs() {
                         <div className="col-8 pt-3 mx-auto">
                             <input type="submit" className="btn btn-info" value="Send Message"></input>
                         </div>
+                  
                     </div>
                 </form>
+               
             </div>
+            
         </div>
     )
 }
-  
+
