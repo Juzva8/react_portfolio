@@ -1,6 +1,5 @@
 import React from 'react';
 import './Footer.css';
-import resume from "../Resume/Resume.pdf"; 
 
 const Footer = () => (
   <div className="footer">
@@ -16,7 +15,7 @@ const Footer = () => (
                   <a href="https://github.com/Juzva8" target="_blank" rel="noopener noreferrer">
                   <i class="fab fa-github"></i>
                   </a>
-                  <a href={resume} target="_blank" rel="noopener noreferrer">
+                  <a href='https://drive.google.com/file/d/1u9W15oR6jb04UaBh51WZL37UW5KJQrrR/view?usp=sharing' target="_blank" rel="noopener noreferrer">
                   <i class="far fa-address-card"></i>
                   </a>
               </ul>
