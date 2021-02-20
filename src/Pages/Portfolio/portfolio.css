@@ -3,5 +3,22 @@
     padding-bottom: 5rem;
     opacity: 0.85;
     padding-top:3%;
+    
     };
     
+.btn {
+    background-color:#464444;
+    box-shadow: 2px 2px 10px 1px black;
+    color: white;
+    align-self: right;
+    padding-top:50%;
+  
+}
+
+.btn:hover {
+    background-color: #464444;
+    color: white;
+}   
+div{
+    background-color:red;
+}
