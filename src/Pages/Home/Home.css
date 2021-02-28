@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-
-
 .logo {
     border-radius: 50px;
     padding-top:5%;
@@ -10,6 +8,8 @@
     margin-left: 40%;
     margin-top: 50;
     margin-bottom: 50;
+ 
+
   
 }
 div{
@@ -19,6 +19,7 @@ div{
     background-size: cover;
 
 }
+
 
 h3{
     

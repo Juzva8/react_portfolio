@@ -4,7 +4,7 @@ import GridComponent from '../../components/Portfolio/grid';
 import './portfolio.css';
 import buddy from '../../components/Images/Projects/Buddy.png';
 import BrowsJungle from '../../components/Images/Projects/BrowsJungle.png'
-import Code_Mania from '../../components/Images/Projects/Code Mania.png'
+import SocialApp from '../../components/Images/Projects/SocialApp.png'
 import Quiz_img from '../../components/Images/Projects/Quiz_img.png'
 import SCP from '../../components/Images/Projects/SCP.png'
 import budget from '../../components/Images/Projects/budget-app.png'
@@ -50,10 +50,10 @@ const Portfolio = () => (
             <div className="row">
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeIn" duration={5500}>
-                <a href="https://github.com/wlawsonkelly/project-2" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
+                <a href="https://github.com/Juzva8/socialapp" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
                     <GridComponent>
-                    <a href="https://ancient-bayou-98985.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                        <img className="rounded float-left img-fluid" src={Code_Mania}  width="350" height="350" alt="Code Mania" />
+                    <a href="https://socialapp-a6247.web.app/" target="_blank" rel="noopener noreferrer">
+                        <img className="rounded float-left img-fluid" src={SocialApp}  width="350" height="350" alt="Code Mania" />
                     </a>
                     </GridComponent>
                  </Reveal>
