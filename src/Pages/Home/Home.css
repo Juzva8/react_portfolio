@@ -8,21 +8,9 @@
     margin-left: 40%;
     margin-top: 50;
     margin-bottom: 50;
- 
-
-  
 }
-div{
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-}
-
 
 h3{
-    
         font-family: 'Montserrat', sans-serif;
         align-items: center;
         color: #999C9D;

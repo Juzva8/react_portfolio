@@ -14,7 +14,6 @@ const Home = () => (
         </GridComponent>
         <Lawrence />
   </Reveal>
-
      <h3>I am a former CEO and founder of a transport company with almost one hundred employees. 
        I was born in central Europe where studied Psychology for two years and later I decided to get a Bachelor's degree in Business Administration. 
        I am fluent in three languages. I can speak in one of the oldest Proto-Indo-European languages as well as Russian. I can write and read in Cyrillic script and I am fluent in English. 
