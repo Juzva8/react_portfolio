@@ -3,7 +3,7 @@ import Reveal from 'react-reveal/Reveal'
 import GridComponent from '../../components/Portfolio/grid'; 
 import './portfolio.css';
 import buddy from '../../components/Images/Projects/Buddy.png';
-import BrowsJungle from '../../components/Images/Projects/BrowsJungle.png'
+import legitapp from '../../components/Images/Projects/legitapp.png'
 import SocialApp from '../../components/Images/Projects/SocialApp.png'
 import Quiz_img from '../../components/Images/Projects/Quiz_img.png'
 import SCP from '../../components/Images/Projects/SCP.png'
@@ -28,10 +28,10 @@ const Portfolio = () => (
                 </div>
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeIn" duration={3000}>
-                <a href="https://github.com/Juzva8" target="_blank" className="btn text-black mt-n4 repo"rel="noopener noreferrer" ><span className="fab fa-github"></span> Github Repository</a>
+                <a href="https://github.com/Juzva8/legitapp" target="_blank" className="btn text-black mt-n4 repo"rel="noopener noreferrer" ><span className="fab fa-github"></span> Github Repository</a>
                     <GridComponent>
-                    <a href="https://browsjungle.com" target="_blank" rel="noopener noreferrer">
-                        <img className="rounded float-left img-fluid" src={BrowsJungle} width="350" height="350" alt="Brows Jungle" rel="noopener noreferrer" />
+                    <a href="https://legitenough-e1470.web.app" target="_blank" rel="noopener noreferrer">
+                        <img className="rounded float-left img-fluid" src={legitapp} width="350" height="350" alt="Brows Jungle" rel="noopener noreferrer" />
                     </a>
                     </GridComponent>
                     </Reveal>
@@ -69,7 +69,7 @@ const Portfolio = () => (
                    </Reveal>
                 </div>
                 <div className="col-sm-12 col-lg-4">
-                <Reveal effect="fadeInLeft" duration={3000}>
+                <Reveal effect="fadeInLeft" duration={3000} >
                 <a href="https://github.com/Juzva8/budget-app" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
                         <GridComponent>
                     <a href="https://dry-lowlands-94703.herokuapp.com/" target="_blank" rel="noopener noreferrer">
