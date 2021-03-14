@@ -5,7 +5,7 @@ import './portfolio.css';
 import buddy from '../../components/Images/Projects/Buddy.png';
 import legitapp from '../../components/Images/Projects/legitapp.png'
 import SocialApp from '../../components/Images/Projects/SocialApp.png'
-import Quiz_img from '../../components/Images/Projects/Quiz_img.png'
+import brows from '../../components/Images/Projects/browsjungle.png'
 import SCP from '../../components/Images/Projects/SCP.png'
 import budget from '../../components/Images/Projects/budget-app.png'
 
@@ -38,10 +38,10 @@ const Portfolio = () => (
                 </div>
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeInRight" duration={2500}>
-                <a href="https://github.com/Juzva8/Quiz-App" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
+                <a href="https://github.com/Juzva8/enoughrandom" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
                     <GridComponent>
-                    <a href=" https://juzva8.github.io/Quiz-App/" target="_blank" rel="noopener noreferrer">
-                        <img className="rounded float-left img-fluid" src={Quiz_img} width="350" height="350" alt="Quiz app" />
+                    <a href="https://main.d31lf0dcwu8jdq.amplifyapp.com" target="_blank" rel="noopener noreferrer">
+                        <img className="rounded float-left img-fluid" src={brows} width="350" height="350" alt="Quiz app" />
                     </a>
                     </GridComponent>
                     </Reveal>
