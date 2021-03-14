@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
+import './Lawrence.css'
 
 const TypeStyle = styled.p`
   font-size:45px;
