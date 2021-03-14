@@ -4,3 +4,7 @@ h4{
     padding-left: 20%;
     padding-right: 20px;
 }
+@media (max-width:500px){
+    h4{
+    font-size: small;
+   }}
