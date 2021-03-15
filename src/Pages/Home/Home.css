@@ -24,8 +24,20 @@ h3{
     }
 
     @media (max-width:500px){
+
+        *{
+           align-items: center;
+           padding: 2px;
+          
+        }
+        .logo{
+            padding: 2px;
+            margin-bottom: 2px;
+        }
         h3{
         font-size: small;
+        margin-top: 5px;
+
        }
     
     }
