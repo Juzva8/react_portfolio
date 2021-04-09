@@ -71,7 +71,7 @@ const Portfolio = () => (
                 <Reveal effect="fadeInLeft" duration={3000} >
                 <a href="https://github.com/Juzva8/BUDDY" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
                         <GridComponent>
-                    <a href="https://juzva8.github.io/BUDDY/</GridComponent>" target="_blank" rel="noopener noreferrer">
+                    <a href="https://juzva8.github.io/BUDDY/" target="_blank" rel="noopener noreferrer">
                     <img className="rounded float-left img-fluid" src={buddy} width="350" height="350" alt="Next Project" />               
                     </a>
                     </GridComponent>
