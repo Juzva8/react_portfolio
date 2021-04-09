@@ -16,12 +16,11 @@ const Portfolio = () => (
             <div className="row">
       
                 <div className="col-sm-12 col-lg-4">
-             
                 <Reveal effect="fadeInLeft" duration={2000}>
-                <a href="https://juzva8.github.io/BUDDY" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer" ><span className="fab fa-github"></span> Github Repository</a>
+                <a href="https://github.com/Juzva8/enoughrandom" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer" ><span className="fab fa-github"></span> Github Repository</a>
                     <GridComponent>
-                    <a href="https://juzva8.github.io/BUDDY/" target="_blank" rel="noopener noreferrer">
-                        <img className="rounded float-left img-fluid" src={buddy} width="350" height="350" alt="Buddy" />
+                    <a href="https://main.d31lf0dcwu8jdq.amplifyapp.com" target="_blank" rel="noopener noreferrer">
+                        <img className="rounded float-left img-fluid" src={brows} width="350" height="350" alt="Buddy" />
                     </a>
                     </GridComponent>
                     </Reveal>
@@ -38,10 +37,10 @@ const Portfolio = () => (
                 </div>
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeInRight" duration={2500}>
-                <a href="https://github.com/Juzva8/enoughrandom" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
+                <a href="https://github.com/Juzva8/budget-app" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
                     <GridComponent>
-                    <a href="https://main.d31lf0dcwu8jdq.amplifyapp.com" target="_blank" rel="noopener noreferrer">
-                        <img className="rounded float-left img-fluid" src={brows} width="350" height="350" alt="Quiz app" />
+                    <a href="https://dry-lowlands-94703.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        <img className="rounded float-left img-fluid" src={budget} width="350" height="350" alt="Quiz app" />
                     </a>
                     </GridComponent>
                     </Reveal>
@@ -70,10 +69,10 @@ const Portfolio = () => (
                 </div>
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeInLeft" duration={3000} >
-                <a href="https://github.com/Juzva8/budget-app" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
+                <a href="https://github.com/Juzva8/BUDDY" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
                         <GridComponent>
-                    <a href="https://dry-lowlands-94703.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                    <img className="rounded float-left img-fluid" src={budget} width="350" height="350" alt="Next Project" />               
+                    <a href="https://juzva8.github.io/BUDDY/</GridComponent>" target="_blank" rel="noopener noreferrer">
+                    <img className="rounded float-left img-fluid" src={buddy} width="350" height="350" alt="Next Project" />               
                     </a>
                     </GridComponent>
                      </Reveal>
