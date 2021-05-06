@@ -21,7 +21,6 @@ const Home = () => (
        My all free time I spent on the coding academy and other online courses learning other coding languages. 
        I know that you see Junior developer but with my commitment and responsibility you will get the best employee you have ever seen!</h3>
     </div>
-
   );
 
 
