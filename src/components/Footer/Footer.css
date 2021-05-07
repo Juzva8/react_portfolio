@@ -11,10 +11,11 @@
     width: 100%;
     z-index: 1;
   }
-  
+  #icon:hover{
+color: red;
+  }
   .icon-bar{
   display: inline-block;
-
   }
 
 a{
