@@ -6,7 +6,7 @@ import buddy from '../../components/Images/Projects/Buddy.png';
 import legitapp from '../../components/Images/Projects/legitapp.png'
 import SocialApp from '../../components/Images/Projects/SocialApp.png'
 import brows from '../../components/Images/Projects/browsjungle.png'
-import SCP from '../../components/Images/Projects/SCP.png'
+import STM from '../../components/Images/Projects/STM.png'
 import budget from '../../components/Images/Projects/budget-app.png'
 
 
@@ -59,10 +59,10 @@ const Portfolio = () => (
                 </div>
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeInUp" duration={2750}>
-                <a href="https://github.com/ShanniSnax/self-care-pirates" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
+                <a href="https://github.com/nicholasd-uci/StrattonTerrace#readme" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
                         <GridComponent>
-                    <a href="https://aqueous-refuge-56122.herokuapp.com" target="_blank" rel="noopener noreferrer">
-                        <img className="rounded float-left img-fluid" src={SCP}  width="350" height="350" alt="Self-care Pirates" />
+                    <a href="https://strattonterrace.com" target="_blank" rel="noopener noreferrer">
+                        <img className="rounded float-left img-fluid" src={STM}  width="350" height="350" alt="Self-care Pirates" />
                     </a>
                     </GridComponent>
                    </Reveal>

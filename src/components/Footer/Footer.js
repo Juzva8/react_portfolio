@@ -5,7 +5,7 @@ const Footer = () => (
   <div className="footer">
  
               <ul className="icon-bar">
-                  <a id="icon" href="https://www.linkedin.com/in/laurynas-j-88427319a"target="_blank" rel="noopener noreferrer">
+                  <a id="icon" href="https://www.linkedin.com/in/lawerence-j/"target="_blank" rel="noopener noreferrer">
                   <i class="fab fa-linkedin-in"></i>
                   </a> {}
                   <a id="icon" href="mailto:laurynas.juzva@gmail.com" target="_blank" rel="noopener noreferrer">
