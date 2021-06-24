@@ -26,15 +26,16 @@ const Portfolio = () => (
                     </Reveal>
                 </div>
                 <div className="col-sm-12 col-lg-4">
-                <Reveal effect="fadeIn" duration={3000}>
-                <a href="https://github.com/Juzva8/legitapp" target="_blank" className="btn text-black mt-n4 repo"rel="noopener noreferrer" ><span className="fab fa-github"></span> Github Repository</a>
-                    <GridComponent>
-                    <a href="https://legitenough-e1470.web.app" target="_blank" rel="noopener noreferrer">
-                        <img className="rounded float-left img-fluid" src={legitapp} width="350" height="350" alt="Brows Jungle" rel="noopener noreferrer" />
+                <Reveal effect="fadeInUp" duration={2750}>
+                <a href="https://github.com/nicholasd-uci/StrattonTerrace" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
+                        <GridComponent>
+                    <a href="https://strattonterrace.com" target="_blank" rel="noopener noreferrer">
+                        <img className="rounded float-left img-fluid" src={STM}  width="350" height="350" alt="Self-care Pirates" />
                     </a>
                     </GridComponent>
-                    </Reveal>
+                   </Reveal>
                 </div>
+
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeInRight" duration={2500}>
                 <a href="https://github.com/Juzva8/budget-app" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
@@ -58,14 +59,14 @@ const Portfolio = () => (
                  </Reveal>
                 </div>
                 <div className="col-sm-12 col-lg-4">
-                <Reveal effect="fadeInUp" duration={2750}>
-                <a href="https://github.com/nicholasd-uci/StrattonTerrace#readme" target="_blank" className="btn text-black mt-n4 repo" rel="noopener noreferrer"><span className="fab fa-github"></span> Github Repository</a>
-                        <GridComponent>
-                    <a href="https://strattonterrace.com" target="_blank" rel="noopener noreferrer">
-                        <img className="rounded float-left img-fluid" src={STM}  width="350" height="350" alt="Self-care Pirates" />
+                <Reveal effect="fadeIn" duration={3000}>
+                <a href="https://github.com/Juzva8/legitapp" target="_blank" className="btn text-black mt-n4 repo"rel="noopener noreferrer" ><span className="fab fa-github"></span> Github Repository</a>
+                    <GridComponent>
+                    <a href="https://legitenough-e1470.web.app" target="_blank" rel="noopener noreferrer">
+                        <img className="rounded float-left img-fluid" src={legitapp} width="350" height="350" alt="Brows Jungle" rel="noopener noreferrer" />
                     </a>
                     </GridComponent>
-                   </Reveal>
+                    </Reveal>
                 </div>
                 <div className="col-sm-12 col-lg-4">
                 <Reveal effect="fadeInLeft" duration={3000} >
@@ -77,9 +78,10 @@ const Portfolio = () => (
                     </GridComponent>
                      </Reveal>
                 </div>
+               
             </div>
         </div>
-    
+
       );
 
     
