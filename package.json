@@ -1,54 +1,28 @@
 {
-  "name": "new",
-  "version": "0.1.0",
-  "private": true,
+  "name": "Lawrence",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
   "dependencies": {
-    "@phuocng/react-pdf-viewer": "^1.7.0",
-    "@testing-library/jest-dom": "^5.11.9",
-    "@testing-library/react": "^11.2.3",
-    "@testing-library/user-event": "^12.6.2",
-    "bootstrap": "^4.6.0",
-    "emailjs-com": "^2.6.4",
-    "mdbreact": "^5.0.1",
-    "pdfjs-dist": "^2.4.456",
-    "react": "^17.0.1",
-    "react-contain-textbox": "^0.1.2",
-    "react-dom": "^17.0.1",
-    "react-parallax": "^3.1.2",
-    "react-reveal": "^1.2.2",
-    "react-scripts": "4.0.1",
-    "react-tooltip": "^4.2.13",
-    "reactstrap": "^8.9.0",
-    "reveal": "0.0.4",
-    "styled-components": "^5.2.1",
-    "typestyle": "^2.1.0",
-    "web-vitals": "^0.2.4"
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.1.5",
+    "react-spring": "8.0.19",
+    "react-three-fiber": "2.0.0",
+    "three": "0.102.1"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "prettier": "2.2.1"
-  }
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

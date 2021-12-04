@@ -12,8 +12,6 @@
 * This is my portfolio!
 ## Installation
 * No installation needed. Use your browser
-## Screenshot
-![screenshot](./Screen-Shot.png)
 ## Usage
 * N/A
 ## Contributing
@@ -22,10 +20,9 @@
 * YES
 ## Link to deployed version of the app
 * https://github.com/Juzva8/react_portfolio
-* https://www.legitenough.com/
+* https://www.lawrenceju.com/
 ## License
 * A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 ## Questions
 * Contact me at:
   * [My GitHub Profile](https://github.com/Juzva8)
-
